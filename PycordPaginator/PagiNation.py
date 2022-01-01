@@ -1,7 +1,7 @@
 from typing import List, Union
 import discord
 from discord.abc import Messageable
-from pycord_components import (
+from py_cord_components import (
     PycordComponents,
     Button,
     ButtonStyle,
